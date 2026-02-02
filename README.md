@@ -4,7 +4,7 @@
 
 ## 先说结论
 
-好速互联：[www.haosu360.com](https://www.haosu360.com){:target="_blank"}
+好速互联：[www.haosu360.com](https://www.haosu360.com)
 
 推荐理由：安全高速，全新通信协议，速度快更稳定，不用等待卡顿，不用频繁切换节点。
 
